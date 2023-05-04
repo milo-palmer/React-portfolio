@@ -61,11 +61,11 @@ function Projects() {
       <section className="grid-reverse">
         <a
           className="img-container"
-          href="https://github.com/harakeke-2023/Team-Misfit-Koalas"
+          href="https://gemini-summits-production.up.railway.app/"
           target="_blank"
           rel="noreferrer"
         >
-          <img src="images/Chat.png" alt="Chat API home page" />
+          <img src="images/nchat.png" alt="Chat API home page" />
         </a>
         <div className="center-text">
           <h2>Chat GPT pick your own adventure</h2>
