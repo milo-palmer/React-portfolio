@@ -27,7 +27,26 @@ function Projects() {
       >
         <div className="center-text">
           <h2>Todo List</h2>
-          <p>Classic To do list, Was one of the challenges from dev academy</p>
+          <p>
+            Classic To do list, Was one of the challenges from dev academy. I
+            made this project to work on my full stack ability this Dev
+            challenge had no guidence and we had to build the full back-end and
+            full front-end parts of the application. I leant how to build and
+            test db functions in this to a much higher level than I had done
+            before with doing DB calls in specific orders and foing filters. I
+            also worked on my conditional rendering in React.
+          </p>
+          <h3>Tools used</h3>
+          <ul>
+            <li>React</li>
+            <li>Redux</li>
+            <li>css</li>
+            <li>scss</li>
+            <li>Express</li>
+            <li>Knex</li>
+            <li>Jest</li>
+            <li>Supertest</li>
+          </ul>
         </div>
         <a
           className="img-container"
