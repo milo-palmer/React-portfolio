@@ -31,10 +31,11 @@ function Projects() {
             Classic To do list, Was one of the challenges from dev academy. I
             made this project to work on my full stack ability this Dev
             challenge had no guidence and we had to build the full back-end and
-            full front-end parts of the application. I leant how to build and
-            test db functions in this to a much higher level than I had done
-            before with doing DB calls in specific orders and foing filters. I
-            also worked on my conditional rendering in React.
+            full front-end parts of the application. I learnt how to build and
+            test DB functions to a much higher level than I had done before when
+            doing DB calls in specific orders and also implementing a filter
+            system using those DB functions. I also worked on my conditional
+            rendering in React.
           </p>
           <h3>Tools used</h3>
           <ul>
