@@ -54,7 +54,7 @@ function Projects() {
           target="_blank"
           rel="noreferrer"
         >
-          <img src="images/todo.png" alt="Todo home page" />
+          <img src="/images/todo.png" alt="Todo home page" />
         </a>
       </section>
       <section className="grid-reverse">
@@ -64,7 +64,7 @@ function Projects() {
           target="_blank"
           rel="noreferrer"
         >
-          <img src="images/chat.png" alt="Chat API home page" />
+          <img src="images/Chat.png" alt="Chat API home page" />
         </a>
         <div className="center-text">
           <h2>Chat GPT pick your own adventure</h2>
